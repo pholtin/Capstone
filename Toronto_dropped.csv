@@ -1,0 +1,108 @@
+,Borough,Neighborhood,Lat,Long
+0,East York,Broadview North,43.6839242,-79.3569642
+1,East York,Crescent Town,43.695403,-79.293099
+2,East York,Danforth - East York,43.6864333,-79.3003555
+4,East York,O'Connor-Parkview,43.7078416,-79.3110743
+5,East York,Old East York,43.699971000000005,-79.33251996261595
+6,East York,Thorncliffe Park,43.704553,-79.3454074
+8,Etobicoke,Alderwood,43.6017173,-79.5452325
+9,Etobicoke,Edenbridge-Humber Valley,43.6722234,-79.5146852
+10,Etobicoke,Elms-Old Rexdale,43.7203452,-79.5571025
+12,Etobicoke,Etobicoke West Mall,43.6435491,-79.56532534553605
+13,Etobicoke,Humber Heights-Westmount,43.68846954999999,-79.5063904344015
+14,Etobicoke,Islington-City Centre West,43.645335,-79.5248163
+16,Etobicoke,Kingsway South,43.6473811,-79.5113328
+17,Etobicoke,Long Branch,43.59200455,-79.54536450659592
+18,Etobicoke,Markland Wood,43.63123865,-79.58543401986114
+19,Etobicoke,Mimico,43.6166773,-79.4968048
+21,Etobicoke,New Toronto,43.6007625,-79.505264
+23,Etobicoke,Rexdale-Kipling,43.7213619,-79.5655129
+24,Etobicoke,Stonegate-Queensway,43.616019449999996,-79.52700544999999
+28,North York,Banbury-Don Mills,43.7348039,-79.3572426
+29,North York,Bathurst Manor,43.6655189,-79.4119373
+30,North York,Bayview Village,43.7691966,-79.3766617
+31,North York,Bayview Woods-Steeles,43.7981268,-79.3829726
+33,North York,Black Creek,43.6954005,-79.485495
+36,North York,Clanton Park,43.7431757,-79.4517261
+37,North York,Don Valley Village,43.7926732,-79.3547219
+39,North York,Englemount-Lawrence,43.7142417,-79.4370715
+40,North York,Flemingdon Park,43.7184315,-79.333204
+41,North York,Glenfield-Jane Heights,43.7572532,-79.5176975
+42,North York,Henry Farm,43.7695089,-79.354296
+43,North York,Hillcrest Village,43.6816953,-79.4257118
+44,North York,Humber Summit,43.7600778,-79.5717598
+46,North York,Lansing-Westgate,43.7589503,-79.4225555
+47,North York,Maple Leaf,43.7122767,-79.4901977
+48,North York,Newtonbrook East,43.7938863,-79.42567902301055
+49,North York,Newtonbrook West,43.7938863,-79.42567902301055
+51,North York,Pelmo Park-Humberlea,43.7121949,-79.51755639837398
+52,North York,Pleasant View,43.787048,-79.3337137
+53,North York,Rustic,43.71336615,-79.50450373904313
+54,North York,St. Andrew-Windfields,43.6477917,-79.3848711
+55,North York,Victoria Village,43.732658,-79.3111892
+57,North York,Willowdale East,43.7615095,-79.4109234
+58,North York,Willowdale West,43.7615095,-79.4109234
+59,North York,York University Heights,43.7587808,-79.5194336
+60,North York,Yorkdale-Glen Park,43.7064433,-79.4526856
+61,Old City of Toronto,Annex,43.6703377,-79.407117
+62,Old City of Toronto,Bay Street Corridor,43.6673421,-79.3884571
+65,Old City of Toronto,Casa Loma,43.6781015,-79.409415775
+66,Old City of Toronto,Church-Yonge Corridor,43.663628,-79.386503
+67,Old City of Toronto,Corso Italia-Davenport,43.677954,-79.4430828
+68,Old City of Toronto,Danforth Village - Toronto,43.6833573,-79.3235744
+70,Old City of Toronto,Dufferin Grove,43.6536319,-79.4264389
+71,Old City of Toronto,East End-Danforth,43.6684402,-79.33067
+72,Old City of Toronto,Forest Hill North,43.6935586,-79.4139023
+73,Old City of Toronto,Forest Hill South,43.6935586,-79.4139023
+75,Old City of Toronto,High Park North,43.6573833,-79.470961
+76,Old City of Toronto,High Park-Swansea,43.64554735,-79.48028841747998
+77,Old City of Toronto,Junction Area,43.6654775,-79.470352
+78,Old City of Toronto,Kensington-Chinatown,43.6534465,-79.4002002
+79,Old City of Toronto,Lawrence Park North,43.729199,-79.4032525
+80,Old City of Toronto,Lawrence Park South,43.729199,-79.4032525
+81,Old City of Toronto,Little Portugal,43.64741325,-79.43111632546047
+82,Old City of Toronto,Moss Park,43.6546438,-79.3697278
+83,Old City of Toronto,Mount Pleasant East,43.7084166,-79.3901348
+84,Old City of Toronto,Mount Pleasant West,43.7084166,-79.3901348
+85,Old City of Toronto,Niagara,43.6440753,-79.4086982
+86,Old City of Toronto,North Riverdale,43.6654704,-79.3525936
+87,Old City of Toronto,North St. James Town,43.6694032,-79.3727041
+88,Old City of Toronto,Palmerston-Little Italy,43.6600648,-79.4118056
+90,Old City of Toronto,Regent Park,43.6607056,-79.3604569
+91,Old City of Toronto,Roncesvalles,43.6514426,-79.4510381
+92,Old City of Toronto,Rosedale-Moore Park,43.6903876,-79.3832965
+93,Old City of Toronto,Runnymede-Bloor West Village,43.6517026,-79.4759978
+94,Old City of Toronto,South Parkdale,43.6404954,-79.4368965
+95,Old City of Toronto,South Riverdale,43.6654704,-79.3525936
+96,Old City of Toronto,The Beaches,43.6710244,-79.296712
+97,Old City of Toronto,Trinity-Bellwoods,43.64756465,-79.41388090266673
+98,Old City of Toronto,University,43.72824305,-79.37750288670469
+99,Old City of Toronto,Waterfront Communities-The Island,43.7729847,-79.4999278
+102,Old City of Toronto,Wychwood,43.682121699999996,-79.42383883756801
+103,Old City of Toronto,Yonge and Eglinton,43.7067479,-79.3983271
+104,Old City of Toronto,Yonge-St.Clair,43.6880189,-79.3945708
+105,Scarborough,Agincourt North,43.8080383,-79.2664391
+107,Scarborough,Bendale,43.7535196,-79.2553355
+109,Scarborough,Centennial Scarborough,43.7874914,-79.1507681
+111,Scarborough,Cliffcrest,43.7218363,-79.2362138
+112,Scarborough,Dorset Park,43.7528467,-79.282067
+113,Scarborough,Eglinton East,43.7394646,-79.2320997
+114,Scarborough,Guildwood,43.7552251,-79.1982293
+115,Scarborough,Highland Creek,43.7901172,-79.1733344
+116,Scarborough,Ionview,43.7359904,-79.2765146
+117,Scarborough,Kennedy Park,43.724878,-79.2539688
+118,Scarborough,L'Amoreaux,43.799003,-79.3059669
+119,Scarborough,Malvern,43.8091955,-79.2217008
+120,Scarborough,Milliken,43.8231743,-79.3017626
+121,Scarborough,Morningside,43.7826012,-79.2049579
+122,Scarborough,Oakridge,43.6971738,-79.2748232
+123,Scarborough,Rouge,43.8049304,-79.1658374
+124,Scarborough,Scarborough Village,43.7437422,-79.2116324
+125,Scarborough,Steeles,43.8161778,-79.3145378
+127,Scarborough,West Hill,43.7689144,-79.1872905
+129,Scarborough,Woburn,43.7598243,-79.2252908
+132,York,Caledonia-Fairbank,43.6867527,-79.4595746
+134,York,Keelesdale-Eglinton West,43.6901578,-79.4749985
+136,York,Mount Dennis,43.6869597,-79.4895513
+137,York,Oakwood Village,43.6827255,-79.4380548
+139,York,Weston,43.7001608,-79.5162474
